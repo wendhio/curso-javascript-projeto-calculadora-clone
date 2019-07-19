@@ -1,3 +1,2 @@
-let calculadora = new CalController();
+window.caculator = new CalController();
 
-calculadora._displayCalc;
